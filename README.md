@@ -37,7 +37,7 @@ Before building, I wrote a full PRD defining the target user (small business own
 - **Retention target:** 40% of users return weekly to check their plan or insights
 - **Satisfaction target:** average rating of 8/10 or higher
 
-Full PRD included in this repo: [`docs/MarketPilot-PRD.pdf`](./docs/MarketPilot-PRD.pdf)
+Full PRD included in this repo: [`Docs/MarketPilot-PRD.pdf)
 
 ## Tech Stack
 
