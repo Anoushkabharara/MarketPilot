@@ -61,4 +61,4 @@ MarketPilot/
 
 ## Notes
 
-This is a personal project built to explore product scoping, AI-assisted content generation, and end-to-end shipping — from a written PRD through a live, working deployment. The Analytics & Insights Engine described in the PRD is on the roadmap and not yet implemented.
+This is an internship project built to explore product scoping, AI-assisted content generation, and end-to-end shipping — from a written PRD through a live, working deployment. The Analytics & Insights Engine described in the PRD is on the roadmap and not yet implemented.
